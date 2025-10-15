@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam Lekrinszki
 
-I’m a full-stack developer and designer from Budapest, passionate about **building tools that empower creators and simplify complex systems**.  
-Currently working on **Uplinked.me** — a privacy-first creator monetization platform — and running **Lucide Code Studio**, my creative & development studio.
+I’m a full-stack developer and designer from **Budapest**, passionate about **building tools that empower creators and simplify complex systems**.  
+Currently working on **[Uplinked.me](https://uplinked.me)** — a privacy-first creator monetization platform — and running **[LA Solutions](https://lasolutions.hu)**, my creative & development studio.
 
 ---
 
@@ -12,29 +12,30 @@ Currently working on **Uplinked.me** — a privacy-first creator monetization pl
 Uplinked lets creators turn their bio links into income — one link at a time — with:
 - 💰 **Pay-per-link** monetization (LemonSqueezy / Stripe)
 - 📈 Built-in **creator analytics** (no third-party tracking)
-- 🛡️ 100% **GDPR-compliant & EU-hosted**
-- 📨 Integrated **newsletter & fan subscription tools**
+- 🛡️ 100 % **GDPR-compliant & EU-hosted**
+- 💌 Integrated **newsletter & fan subscription tools**
 
 > “The bio link that pays off.”
 
 ---
 
-### 💡 [Lucide Code Studio](https://lucidecode.com)
-A digital studio focused on **interactive web experiences**, **brand-driven SaaS**, and **modern UI/UX**.  
+### 💡 [LA Solutions](https://lasolutions.hu)
+A modern digital studio focused on **interactive web experiences**, **brand-driven SaaS**, and **next-generation UI/UX design**.  
 We design & build:
-- ✨ Landing pages with cinematic GSAP animation  
-- ⚙️ Full-stack apps (Next.js, Supabase, Prisma, PostgreSQL, Paddle, Stripe)  
-- 📱 React Native & Expo mobile apps  
-- 🧠 AI-integrated tools and creative utilities  
+- ✨ Landing pages with cinematic **GSAP** animation  
+- ⚙️ Full-stack web apps (**Next.js**, **Supabase**, **Prisma**, **PostgreSQL**, **Paddle**, **Stripe**)  
+- 📱 **React Native / Expo** mobile apps  
+- 🧠 AI-powered dashboards & creative utilities  
 
-> From concept to launch — crafted with precision, purpose, and aesthetic clarity.
+> From concept to launch — crafted with precision, purpose & clarity.  
+> Built by LA Solutions in Budapest.
 
 ---
 
 ## 🧰 Tech Stack
 
 **Frontend:**  
-`Next.js` • `React` • `Tailwind CSS` • `GSAP` • `Recharts` • `Framer Motion`
+`Next.js` • `React` • `Tailwind CSS` • `GSAP` • `Framer Motion` • `Recharts`
 
 **Backend:**  
 `Supabase` • `PostgreSQL` • `Express.js` • `Prisma` • `Neon DB`
@@ -50,21 +51,21 @@ We design & build:
 ## 📈 What Drives Me
 I love turning **complex systems into elegant interfaces** — where design and code merge into clarity.  
 My focus is on:
-- Building **privacy-respectful**, **GDPR-compliant** SaaS
-- Creating **tools for creators**
-- **Optimizing user flow** and micro-interactions  
-- Using AI thoughtfully in design & product decisions
+- Building **privacy-respectful**, **GDPR-compliant** SaaS  
+- Creating **tools for creators and businesses**  
+- Designing **frictionless user flows & micro-interactions**  
+- Applying **AI thoughtfully** in product design and automation
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 💼 [Website](https://lucideco.de)
-- 🌍 [Uplinked.me](https://uplinked.me)
-- 🧠 [LinkedIn](https://www.linkedin.com/in/adamlekrinszki)
-- 🧵 [Threads](https://www.threads.net/@uplinked.me)
-- 📸 [Instagram](https://www.instagram.com/uplinked.me)
-- ✉️ Reach me at [adam@lucidecode.com](mailto:hello@lucideco.de)
+- 💼 [Website](https://lasolutions.hu)  
+- 🌍 [Uplinked.me](https://uplinked.me)  
+- 🧠 [LinkedIn](https://www.linkedin.com/in/adamlekrinszki)  
+- 🧵 [Threads](https://www.threads.net/@uplinked.me)  
+- 📸 [Instagram](https://www.instagram.com/uplinked.me)  
+- ✉️ Reach me at [adam@lasolutions.hu](mailto:adam@lasolutions.hu)
 
 ---
 
@@ -74,4 +75,4 @@ My focus is on:
 ---
 
 🖤 Crafted by **Adam Lekrinszki**  
-Founder of [Uplinked.me](https://uplinked.me) & [Lucide Code Studio](https://lucideco.de)
+Founder of [Uplinked.me](https://uplinked.me) & [LA Solutions](https://lasolutions.hu)
